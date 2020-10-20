@@ -1,0 +1,31 @@
+h1{
+
+	font-size: 100px;
+	color: #cf30ac;
+	
+}
+
+p{
+	color:blue;
+	text-align: center;
+}
+
+.p{
+	color:purple;
+}
+
+.verde_claro{
+	color: green;
+}
+
+.tamaño{
+	font-size: 50px;
+}
+
+.derecho{
+	text-align: right;
+}
+
+.espaciado{
+	letter-spacing: 5px;
+}
